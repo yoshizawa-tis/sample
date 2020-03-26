@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "vscjava.vscode-java-pack",
+        "pivotal.vscode-boot-dev-pack",
+        "gabrielbb.vscode-lombok",
+        "shengchen.vscode-checkstyle",
+        "sonarsource.sonarlint-vscode",
+        "madhavd1.javadoc-tools",
+        "mtxr.sqltools"
+    ]
+}

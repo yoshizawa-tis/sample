@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "extensions.showRecommendationsOnlyOnDemand": false,
+    "editor.formatOnSave": true,
+    "editor.detectIndentation": false,
+    "java.saveActions.organizeImports": true,
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.checkstyle.configuration": "${workspaceFolder}/checkstyle/google_checks.xml",
+    "java.checkstyle.version": "8.30",
+    "java.format.settings.url": "./checkstyle/eclipse-java-google-style.xml",
+    "java.format.settings.profile": "GoogleStyle",
+}
