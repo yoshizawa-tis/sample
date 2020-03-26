@@ -14,4 +14,5 @@
     "java.checkstyle.version": "8.30",
     "java.format.settings.url": "./checkstyle/eclipse-java-google-style.xml",
     "java.format.settings.profile": "GoogleStyle",
+    "maven.executable.path": "./mvnw",
 }
